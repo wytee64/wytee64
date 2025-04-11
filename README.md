@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS and JavaScript**
 
-- Portfolio Website (Comming soon still)
+- Portfolio Website (Comming soon still.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
