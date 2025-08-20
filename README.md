@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm wytee</h1>
 <h3 align="center">A software dev</h3>
 
-- 🔭 I’m currently working on [nothing](https://github.com/wytee64/Fit_ahhh)
+- 🔭 I’m currently working on [nothing](#)
 
-- 🌱 I’m currently learning **Java, HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **React**
 
 - Portfolio Website (Comming soon still.)
 
