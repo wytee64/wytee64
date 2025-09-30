@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tangi</h1>
 <h3 align="center">A software dev</h3>
 
-- 🔭 I’m currently working on [api and grpc systems](https://github.com/wytee64/dsa)
+- 🔭 I’m currently working on **a recipe book**
 - 🌱 I’m currently learning **React.js and ballerina**
 
 - Portfolio website **(Coming soon)**
