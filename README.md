@@ -9,12 +9,8 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">
-  <ul align="center" style="list-style-type: none;">
-    <li align="center"> Building: Mobile applications</li>
-    <li align="center"> Learning: Mobile, Web Development, Machine Learning</li>
-  </ul>
-</p>
+<p align="center"> Building: Mobile applications</p>
+<p align="center"> Learning: Mobile, Web Development, Machine Learning</p>
 
 ---
 
