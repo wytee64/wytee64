@@ -7,9 +7,14 @@
 
 ---
 
-### About Me
-- Building: **Mobile applications**
-- Learning: **Mobile + Web Development**
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  <ul align="center" style="list-style-type: none;">
+    <li align="center"> Building: Mobile applications</li>
+    <li align="center"> Learning: Mobile, Web Development, Machine Learning</li>
+  </ul>
+</p>
 
 ---
 
