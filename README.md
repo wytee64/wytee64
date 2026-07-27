@@ -10,7 +10,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center"> Building: Mobile applications</p>
-<p align="center"> Learning: Mobile, Web Development, Machine Learning</p>
+<p align="center"> Learning: Mobile dev, Web dev(MERN), Machine Learning, Backend dev</p>
 
 ---
 
