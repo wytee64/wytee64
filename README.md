@@ -16,11 +16,6 @@
 <a href="https://linkedin.com/in/raplowytee">
 <img src="https://img.shields.io/badge/LINKEDIN-raplowytee-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=wytee64&label=PROFILE+VIEWS&color=DC2626&style=for-the-badge"/>
-
 </div>
 
 <br>
@@ -357,22 +352,6 @@ status:
 <br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=wytee64&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# `// ACTIVITY`
-
-<sub>A snapshot of the work happening behind the repositories</sub>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wytee64&bg_color=0d1117&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=7f1d1d&hide_border=true" />
 
 </div>
 
