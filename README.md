@@ -1,35 +1,427 @@
-<h1 align="center">Hey, I'm Tangi</h1>
-<h3 align="center">software dev</h3>
+<!-- ====================================================== -->
+<!--                    TANGI AMITI                        -->
+<!-- ====================================================== -->
 
-<p align="center">
-  build • break • learn • repeat
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=230&section=header&text=Tangi%20Amiti&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=56&descSize=18&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=EF4444&center=true&vCenter=true&repeat=true&width=800&height=50&lines=building+things+that+solve+real+problems;mobile+%7C+web+%7C+backend+%7C+machine+learning;turning+ideas+into+working+software;build+%E2%80%A2+break+%E2%80%A2+learn+%E2%80%A2+repeat" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/wytee64">
+<img src="https://img.shields.io/badge/GITHUB-wytee64-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/raplowytee">
+<img src="https://img.shields.io/badge/LINKEDIN-raplowytee-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=wytee64&label=PROFILE+VIEWS&color=DC2626&style=for-the-badge"/>
+
+</div>
+
+<br>
 
 ---
 
-<h3 align="center">About Me</h3>
+## `> whoami`
 
-<p align="center"> Building: Mobile applications</p>
-<p align="center"> Learning: Mobile dev, Web dev(MERN), Machine Learning, Backend dev</p>
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### Tangi Amiti
+
+Software developer and Computer Science student focused on building **real, usable software**.
+
+My main focus is **mobile development**, while continuously expanding into full-stack web development, backend engineering, databases, APIs, machine learning and software architecture.
+
+I enjoy working across the full lifecycle of a product:
+
+`idea → design → build → test → break → debug → improve`
+
+<br>
+
+<img src="https://img.shields.io/badge/PRIMARY-Mobile%20Development-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack%20Systems-B91C1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEARNING-Machine%20Learning-991B1B?style=flat-square"/>
+
+</td>
+
+<td width="40%" valign="top">
+
+```yaml id="fkbqzm"
+name: Tangi Amiti
+
+role:
+  Software Developer
+
+focus:
+  Mobile Development
+
+interests:
+  - Full Stack
+  - Backend Systems
+  - Machine Learning
+  - Software Architecture
+
+status:
+  always building
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-### Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+<div align="center">
+
+# `// FOCUS & STACK`
+
+<sub>What I work with, what I'm building with, and where I'm actively improving</sub>
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### MOBILE DEVELOPMENT
+
+<img src="https://img.shields.io/badge/FOCUS-PRIMARY-DC2626?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kotlin-DC2626?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-B91C1C?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-991B1B?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-7F1D1D?style=flat-square&logo=firebase&logoColor=white"/>
+
+<br><br>
+
+**Currently improving**
+
+<img src="https://img.shields.io/badge/UI%20Architecture-learning-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVVM-improving-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/App%20Architecture-improving-B91C1C?style=flat-square"/>
+
+<br><br>
+
+`Native Android` · `REST APIs` · `Local Storage`  
+`Authentication` · `Cloud Databases`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### WEB DEVELOPMENT
+
+<img src="https://img.shields.io/badge/FOCUS-ACTIVE-B91C1C?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-DC2626?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-B91C1C?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-991B1B?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7F1D1D?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+<br><br>
+
+**Currently improving**
+
+<img src="https://img.shields.io/badge/MERN-learning-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/React%20Patterns-improving-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-improving-B91C1C?style=flat-square"/>
+
+<br><br>
+
+`Responsive UI` · `APIs` · `State Management`  
+`Frontend Architecture` · `Full-Stack Apps`
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### BACKEND & DATA
+
+<img src="https://img.shields.io/badge/FOCUS-GROWING-991B1B?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,supabase&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-DC2626?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-B91C1C?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-991B1B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-7F1D1D?style=flat-square&logo=supabase&logoColor=white"/>
+
+<br><br>
+
+**Currently improving**
+
+<img src="https://img.shields.io/badge/API%20Design-improving-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-learning-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-learning-B91C1C?style=flat-square"/>
+
+<br><br>
+
+`REST APIs` · `Authentication` · `SQL`  
+`Database Design` · `Backend Architecture`
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### AI & MACHINE LEARNING
+
+<img src="https://img.shields.io/badge/FOCUS-EXPLORING-7F1D1D?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TensorFlow-DC2626?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-B91C1C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-991B1B?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-7F1D1D?style=flat-square&logo=keras&logoColor=white"/>
+
+<br><br>
+
+**Currently improving**
+
+<img src="https://img.shields.io/badge/Machine%20Learning-learning-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-exploring-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Integration-exploring-B91C1C?style=flat-square"/>
+
+<br><br>
+
+`NumPy` · `Pandas` · `Matplotlib`  
+`Computer Vision` · `Model Training`
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
-### Stats
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=wytee64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=wytee64&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wytee64&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# `// COMPLETE TOOLBOX`
+
+<sub>The languages, frameworks, platforms and tools currently in my orbit</sub>
+
+<br><br>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,js,php,html,css&theme=dark" />
+
+<br><br>
+
+### Frameworks & Platforms
+
+<img src="https://skillicons.dev/icons?i=androidstudio,react,vite,nodejs,fastapi,firebase,supabase&theme=dark" />
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-DC2626?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firestore-B91C1C?style=flat-square&logo=firebase&logoColor=white"/>
+
+<br><br>
+
+### Data & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Keras-DC2626?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-B91C1C?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-991B1B?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-7F1D1D?style=flat-square"/>
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,gradle,postman,figma,vscode,anaconda&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Trello-DC2626?style=flat-square&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-B91C1C?style=flat-square&logo=canva&logoColor=white"/>
+
+</div>
+
+<br>
 
 ---
 
-### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raplowytee) 
+<div align="center">
 
+# `// DEVELOPMENT RADAR`
 
+<sub>Where most of my attention is going right now</sub>
 
+<br><br>
 
+<img src="https://img.shields.io/badge/MOBILE-DEEPENING-DC2626?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/WEB-BUILDING-B91C1C?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BACKEND-GROWING-991B1B?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-EXPLORING-7F1D1D?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-LEARNING-991B1B?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ARCHITECTURE-LEARNING-B91C1C?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# `// GITHUB`
+
+<sub>Code, activity and progress</sub>
+
+<br><br>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wytee64&theme=radical" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=wytee64&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=wytee64&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=wytee64&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# `// ACTIVITY`
+
+<sub>A snapshot of the work happening behind the repositories</sub>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wytee64&bg_color=0d1117&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=7f1d1d&hide_border=true" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# `// CONNECT`
+
+I'm interested in software development, technology, startups, hackathons,  
+building products and turning ideas into working systems.
+
+<br><br>
+
+<a href="https://linkedin.com/in/raplowytee">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/wytee64?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://wytee.netlify.app">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-wytee.netlify.app-DC2626?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<br><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=2000&color=EF4444&center=true&vCenter=true&repeat=true&width=600&height=35&lines=build+%E2%80%A2+break+%E2%80%A2+learn+%E2%80%A2+repeat" />
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=130&section=footer"/>
+
+<!--
+RED THEME PALETTE
+
+Bright Accent: EF4444
+Primary Red:   DC2626
+Deep Red:      B91C1C
+Dark Red:      991B1B
+Deepest Red:   7F1D1D
+Background:    0D1117
+-->
